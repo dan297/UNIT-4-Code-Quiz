@@ -4,7 +4,7 @@
 
 LIVE URL : https://dan297.github.io/UNIT-4-Code-Quiz/index.html
 
-GITHUB REPO : https://github.com/dan297/UNIT-3-PasswordGenerator1
+GITHUB REPO : https://github.com/dan297/UNIT-4-Code-Quiz
 
 ### Your Task
 
