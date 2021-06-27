@@ -1,0 +1,52 @@
+.body{
+    background-color: red;
+ 
+}
+
+
+.quiz {
+    text-align: center;
+    background-color: red;
+
+}
+
+.question1 {
+    display: none;
+}
+
+.question2 {
+    display: none;
+}
+
+.question3 {
+    display: none;
+}
+
+.question4 {
+    display: none;
+}
+
+.question3 {
+    display: none;
+}
+
+.question4 {
+    display: none;
+}
+
+.scoredisplay {
+    display: none;
+}
+
+.container {
+    display:block;
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40vw;
+    background-color: aqua;
+  }
+
+
+

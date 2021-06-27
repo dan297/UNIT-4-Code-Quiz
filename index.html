@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Week 4 - Code Quiz</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="./assets/css/css.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+  <header>
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-6">
+          <a href="scores.html">View Highscores</a>
+        </div>
+
+        <div class="card-contents">
+          <h4>Score: <span id="count">0</span></h4>
+          <Decrease id="decrement"></Decrease>
+          <Increase id="increment">
+        </div>
+
+        <div class="col-sm-6">
+          <p style="text-align: right;" class="time">Timer</p>
+        </div>
+
+      </div>
+    </div>
+  </header>
+
+  <div class="container quiz" style="text-align: center;">
+
+    <div class="startquiz">
+      <h2>Welcome to the coding Quiz!!!!</h2>
+      <p>
+        Some rules 
+        <br> You have 1 minute to complete the quiz.
+        <br>You will be penalized 10 seconds for every wrong answer and a point deduction
+        <br>Press start Quiz to begin
+      </p>
+
+      <button type="button" class="btn btn-primary startbutton">Start Quiz</button>
+    </div><br>
+
+    <div class="question1">
+      1. What does JS stand for?
+      <br><br>
+
+      <ul class="answers">
+        <button type="button" class="btn btn-primary incorrect">A. JavaS</button><br><br>
+        <button type="button" class="btn btn-primary incorrect">B. Java</button><br><br>
+        <button type="button" class="btn btn-primary correct1">C. JavaScript</button><br><br>
+        <button type="button" class="btn btn-primary incorrect">D. jquery</button><br><br>
+      </ul>
+
+    </div><br>
+
+    <div class="question2">
+      2. What can a for loop be used for ?
+      <br><br>
+
+      <ul class="answers">
+        <button type="button" class="btn btn-primary incorrect">A. To debug  code</button><br><br>
+        <button type="button" class="btn btn-primary incorrect">B. To declare a global variable</button><br><br>
+        <button type="button" class="btn btn-primary correct2">C. To loop over an array.</button><br><br>
+        <button type="button" class="btn btn-primary incorrect">D. To add a background color</button><br><br>
+      </ul>
+
+    </div><br>
+
+    <div class="question3">
+      3. An array’s length can be evaluated with the what property?
+      <br><br>
+      <ul class="answers">
+        <button type="button" class="btn btn-primary incorrect">A. .length</button><br><br>
+        <button type="button" class="btn btn-primary incorrect">B. Console.log</button><br><br>
+        <button type="button" class="btn btn-primary correct3">C. .array</button><br><br>
+        <button type="button" class="btn btn-primary incorrect">D. .loop</button><br><br>
+      </ul>
+    </div><br>
+
+    <div class="question4">
+      4. Int hold decemals numbers
+      <br><br>
+
+      <ul class="answers">
+        <button type="button" class="btn btn-primary incorrect">A. True</button><br><br>
+        <button type="button" class="btn btn-primary correct4">B. False</button><br><br>
+      </ul>
+
+    </div><br>
+
+    <div class="buttons">
+      <button class="restart">Restart</button>
+    </div>
+
+    <div class="scoredisplay">
+      Your Score:
+      <div class="score"></div>
+
+      <div>
+        Initials: <input type="text" class="initials"><br>
+        <input id="submit-btn" type="submit" value="Submit">
+      </div>
+
+    </div><br>
+
+  </div>
+
+  <script src="./assets/js/js.js"></script>
+
+</body>
+
