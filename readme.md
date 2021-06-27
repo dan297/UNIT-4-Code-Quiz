@@ -1,6 +1,14 @@
 # 04 Web APIs: Code Quiz
 
-## Your Task
+## Link to deployed
+
+LIVE URL : https://dan297.github.io/UNIT-4-Code-Quiz/index.html
+
+GITHUB REPO : https://github.com/dan297/UNIT-3-PasswordGenerator1
+
+### Your Task
+
+
 
 At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
 
@@ -8,7 +16,7 @@ To help familiarize you with these tests and allow you to use the skills covered
 
 This week’s coursework will equip you with all the skills you need to succeed in this assignment.
 
-## User Story
+### User Story
 
 ```
 AS A coding boot camp student
@@ -16,7 +24,7 @@ I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN I am taking a code quiz
@@ -30,6 +38,7 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+
 
 
 
