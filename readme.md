@@ -51,6 +51,14 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
+````
+
+## Contact information
+
+Email : danielwhite98@icloud.com
+
+LinkedIN : https://www.linkedin.com/in/daniel-white-8148b9159/
+
 
 
 
