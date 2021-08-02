@@ -54,5 +54,4 @@ THEN I can save my initials and my score
 
 
 
-Link to live URL : https://dan297.github.io/UNIT-4-Code-Quiz/index.html
 
