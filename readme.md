@@ -6,6 +6,18 @@ LIVE URL : https://dan297.github.io/UNIT-4-Code-Quiz/index.html
 
 GITHUB REPO : https://github.com/dan297/UNIT-4-Code-Quiz
 
+## Technologies used
+
+BootStrap
+
+CSS
+
+HTML
+
+JavaScript
+
+Google fonts
+
 ### Your Task
 
 
