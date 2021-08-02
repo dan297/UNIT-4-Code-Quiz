@@ -6,7 +6,7 @@ Users will have the ability to take part in mutiple multiple choice questions. 1
 
 ## Screenshots 
 
-<img width="1000" alt="Screenshot 2021-08-03 at 00 05 30" src="https://user-images.githubusercontent.com/71897967/127934323-78e71e1a-ac35-4b7d-af74-e9089fd09f91.png">
+<img width="800" alt="Screenshot 2021-08-03 at 00 05 30" src="https://user-images.githubusercontent.com/71897967/127934323-78e71e1a-ac35-4b7d-af74-e9089fd09f91.png">
 
 <img width="458" alt="Screenshot 2021-08-03 at 00 05 38" src="https://user-images.githubusercontent.com/71897967/127934327-c73814a4-8260-4569-8207-8011a2252e7b.png">
 
